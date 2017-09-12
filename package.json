@@ -1,6 +1,6 @@
 {
   "name": "datatables.net-editor-dt",
-  "version": "1.6.3",
+  "version": "1.6.5",
   "description": "DataTables Editor - DataTables styling",
   "main": "js/editor.dataTables.js",
   "scripts": {
@@ -14,6 +14,9 @@
     "DataTables",
     "Editor"
   ],
+  "dependencies": {
+    "datatables.net-editor": "^1.6.5"
+  },
   "author": "SpryMedia Ltd",
   "license": "SEE LICENSE IN License.md"
 }
